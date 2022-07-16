@@ -9,6 +9,7 @@
 - 👨&zwj;💻 All of my projects are available at [Portfolio Link](https://hardikkk20.github.io/Port2/)
 
 - 📫 How to reach me **hardik.20.a@gmail.com**
+- 📫 How to reach me **hardik.20.a@gmail.com**🔭 I’m currently working on [Medley Music](https://hardikkk20.github.io/Medley/)
 
 - 📄 Know about my experiences [Resume Link](https://raw.githubusercontent.com/hardikkk20/Port2/master/docs/resume.pdf)
 
