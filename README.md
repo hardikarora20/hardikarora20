@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **hardik.20.a@gmail.com**
 
-- 📄 Know about my experiences [link][https://raw.githubusercontent.com/hardikkk20/Port2/master/docs/resume.pdf](https://raw.githubusercontent.com/hardikkk20/Port2/master/docs/resume.pdf)
+- 📄 Know about my experiences [link](https://raw.githubusercontent.com/hardikkk20/Port2/master/docs/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
