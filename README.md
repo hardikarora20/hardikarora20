@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Hardik Arora</h1>
 <h3 align="center">I’m a Web Developer and a Java Programmer based in India.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-- 🔭 I’m currently working on [Medley Music](https://hardikkk20.github.io/Medley/)
+- 🔭 I’m currently working on [Medley Music](https://hardikkk20.github.io/Medley/) [Portfolio Link](https://hardikkk20.github.io/Port2/)
 
 - 🌱 I’m currently learning **Core Java, Frontend Development**
 
-- 👨&zwj;💻 All of my projects are available at [portfolio](https://hardikkk20.github.io/Port2/)
+- 👨&zwj;💻 All of my projects are available at [Portfolio Link](https://hardikkk20.github.io/Port2/)
 
 - 📫 How to reach me **hardik.20.a@gmail.com**
 
-- 📄 Know about my experiences [resume](https://raw.githubusercontent.com/hardikkk20/Port2/master/docs/resume.pdf)
+- 📄 Know about my experiences [Resume Link](https://raw.githubusercontent.com/hardikkk20/Port2/master/docs/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
