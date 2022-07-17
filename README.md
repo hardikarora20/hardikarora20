@@ -1,7 +1,8 @@
 <!-- [![MasterHead](https://wallpaperaccess.com/full/2991834.jpg)](https://hardikkk20.github.io/Port2/)     -->
 <h1 align="center">Hi 👋, I'm Hardik Arora</h1>
 <h3 align="center">I’m a Web Developer and a Java Programmer based in India.</h3>
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<br>
+<img align="right" alt="Coding" width="300" src="https://64.media.tumblr.com/b46ee92147fccc6a73962335e8f49aea/tumblr_nrf2c4kEco1u6w1edo1_400.gifv">
 
 
 - 🔭 I’m currently working on [Medley Music](https://hardikkk20.github.io/Medley/)
